@@ -1,2 +1,3 @@
 line-bot-sdk
 django
+gunicorn==20.1.0
